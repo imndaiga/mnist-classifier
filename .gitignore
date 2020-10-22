@@ -56,4 +56,5 @@ Temporary Items
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,pydev,macos,vscode
-n
+
+MNIST/*
